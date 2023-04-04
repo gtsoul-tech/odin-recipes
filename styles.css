@@ -1,10 +1,16 @@
 /* styles.css */
+body{
+  background-color: rgba(165, 97, 42, 0.87);
+}
 
-div {
-    color: white;
-    background-color: black;
-  }
-  
-  p {
-    color: red;
-  }
+a{
+  font-size: 30px;
+}
+img{
+  width: auto;
+  aspect-ratio: 1 , 1;
+}
+
+p{
+  background-color: rgba(165, 97, 42, 0.87);
+}
